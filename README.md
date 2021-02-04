@@ -1,5 +1,5 @@
 # SynTAXI 🚕
-## SynTAXI is a Syntax Analayzer for programming languages
+## SynTAXI is a Syntax Analyzer for programming languages
 ### It takes the grammar rules of a program, and a program as inputs and checks for syntax errors.
 
 ***SynTAXI uses Version 1.2 of CoffeeLEX hosted at https://github.com/rezmansouri/CoffeeLEX***
