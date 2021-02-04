@@ -14,7 +14,7 @@ Program -> Int Keyword, Main Keyword, ParenthesesOpen, ParenthesesClose, BlockSt
 
 BlockStatement -> Accolade Open, Statement, Accolade Close
 
-Statement -> Int Keyword, Identifier, Assignment, Number
+Statement -> Int Keyword, Identifier, Assignment, Number, Semicolon
 
 The Input format for a JSON File named syntaxGrammar.json must be like this:
 ```
