@@ -1,0 +1,27 @@
+{
+  "Program": [
+    [
+      "Int Keyword",
+      "Main Keyword",
+      "Parentheses Open",
+      "Parentheses Close",
+      "Block Statement"
+    ]
+  ],
+  "Block Statement": [
+    [
+      "Accolade Open",
+      "Statement",
+      "Accolade Close"
+    ]
+  ],
+  "Statement": [
+    [
+      "Int Keyword",
+      "Identifier",
+      "Assignment",
+      "Number",
+      "Semicolon"
+    ]
+  ]
+}
